@@ -1,0 +1,18 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "primera actividad",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "start": "node ./index.js"
+  },
+  "keywords":[],
+  "author": "Javier Suarez CI:30148370 Sección 1",
+  "license": "ISC",
+  "dependencies": {
+     "cors": "^2.8.5",
+    "express": "^4.18.2"
+   
+  }
+}
